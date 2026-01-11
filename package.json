@@ -18,7 +18,7 @@
   },
   "homepage": "https://jvm.doocs.org",
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12",
+    "vitepress": "^2.0.0-alpha.15",
     "wrangler": "^4.44.0"
   },
   "scripts": {
